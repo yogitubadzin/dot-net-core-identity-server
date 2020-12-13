@@ -1,4 +1,4 @@
-# dot-net-core-identity-server
+# .Net Core Identity Server
 
 Set Action=Start for all projects in Multiple startup projects (solution properties in VS).
 
